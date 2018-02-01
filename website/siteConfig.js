@@ -20,6 +20,7 @@ const siteConfig = {
   tagline: 'A website for demoing Docusaurus',
   url: 'https://facebook.github.io' /* your website url */,
   baseUrl: '/docusaurus-demo/' /* base url for your project */,
+  organizationName: 'JoelMarcey',
   projectName: 'docusaurus-demo',
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
