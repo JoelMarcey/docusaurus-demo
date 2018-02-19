@@ -1,21 +1,20 @@
 {
-  "version-1.0.0-docs": {
+  "version-2.0.0-docs": {
     "Docusaurus": [
-      "version-1.0.0-doc1"
+      "version-2.0.0-doc1"
     ],
     "First Category": [
-      "version-1.0.0-doc2",
-      "version-1.0.0-doc6"
+      "version-2.0.0-doc2",
+      "version-2.0.0-doc6"
     ],
     "Second Category": [
-      "version-1.0.0-doc3"
+      "version-2.0.0-doc3"
     ]
   },
   "version-1.0.0-docs-other": {
     "First Category": [
-      "version-1.0.0-doc4",
-      "version-1.0.0-doc7",
-      "version-1.0.0-doc5"
+      "version-2.0.0-doc4",
+      "version-2.0.0-doc5"
     ]
   }
 }
