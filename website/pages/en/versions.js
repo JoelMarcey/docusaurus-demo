@@ -39,7 +39,6 @@ class Versions extends React.Component {
                   <a href={
                       siteConfig.baseUrl +
                       "docs/" +
-                      this.props.language +
                       "doc1.html"
                     }>Documentation</a>
                   </td>
@@ -61,7 +60,6 @@ class Versions extends React.Component {
                     <a href={
                       siteConfig.baseUrl +
                       "docs/" +
-                      this.props.language +
                       "next" +
                       "/doc1.html"
                     }>Documentation</a>
@@ -88,8 +86,6 @@ class Versions extends React.Component {
                             <a href={
                               siteConfig.baseUrl +
                               "docs/" +
-                              this.props.language +
-                              "/" +
                               version +
                               "/doc1.html"
                             }>Documentation</a>

@@ -9,7 +9,7 @@
 const users = [
   {
     caption: 'User1',
-    image: '/docusaurus-demo/img/docusaurus-demo-big.png',
+    image: '/test-site/img/docusaurus.svg',
     infoLink: 'https://www.facebook.com',
     pinned: true,
   },
@@ -62,10 +62,10 @@ const siteConfig = {
   },
   scripts: ['https://buttons.github.io/buttons.js'],
   // You may provide arbitrary config keys to be used as needed by your template.
-  repoUrl: 'https://github.com/facebook/test-site',
+  repoUrl: 'https://github.com/JoelMarcey/docusaurus-demo/',
   algolia: {
-    apiKey: '3eb9507824b8be89e7a199ecaa1a9d2c',
-    indexName: 'docusaurus',
+    apiKey: "46899d51aa254ffb4fd068f3ae64ed40",
+    indexName: "docusaurus_demo"
   },
 };
 
