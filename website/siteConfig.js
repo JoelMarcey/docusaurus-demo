@@ -67,6 +67,7 @@ const siteConfig = {
     apiKey: "46899d51aa254ffb4fd068f3ae64ed40",
     indexName: "docusaurus_demo"
   },
+  onPageNav: 'separate',
 };
 
 module.exports = siteConfig;
