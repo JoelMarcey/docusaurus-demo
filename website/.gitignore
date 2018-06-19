@@ -1,5 +1,7 @@
 node_modules
 .DS_Store
+yarn-error.log
+
 lib/core/metadata.js
 lib/core/MetadataBlog.js
 website/translated_docs
